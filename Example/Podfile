@@ -1,7 +1,0 @@
-pod "STMQuickRestKit", :path => "../"
-
-target "Demo" do
-end
-
-target "DemoTests" do
-end

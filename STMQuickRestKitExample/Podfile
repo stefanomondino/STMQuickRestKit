@@ -1,0 +1,1 @@
+pod "STMQuickRestKit", :path => "../STMQuickRestKit.podspec"
