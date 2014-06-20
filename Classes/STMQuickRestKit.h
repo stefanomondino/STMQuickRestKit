@@ -9,5 +9,5 @@
 
 #import "STMArrayValueTransformer.h"
 #import "STMQuickObjectMapper.h"
-#import "STMSavedModel"
-#import "STMUnsavedModel"
+#import "STMSavedModel.h"
+#import "STMUnsavedModel.h"
